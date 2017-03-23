@@ -1,0 +1,36 @@
+#doctor{
+    width: 250px;
+    height: 150px;
+}
+p {
+    background-color: silver;
+    font-family: ´Barrio´, cursive;
+}
+
+h1 {
+    color: red;
+    background-color: grey;
+}
+#apps{
+    width: 250px;
+    height: 150px;
+}
+#acch:hover{
+    color:red;
+    background-color:silver;
+    font-family: helvetica;
+}
+#ps{
+    width:200px;
+}
+
+#football{
+    width: 200px;
+     }
+#bball{
+    width: 250px;
+}
+#hoveram:hover{
+    color:red;
+    font-family: cursive;
+}
