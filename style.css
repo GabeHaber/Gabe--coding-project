@@ -6,18 +6,30 @@ p {
     background-color: silver;
     font-family: ´Barrio´, cursive;
 }
-
+p {
+    background-color: silver;
+    font-family: ´Barrio´, cursive;   
+}
+p {
+    background-color: silver;
+    font-family: ´Barrio´, cursive;   
+}
+p {
+    background-color: silver;
+    font-family: ´Barrio´, cursive;   
+}
 h1 {
     color: red;
-    background-color: grey;
 }
+h1 {
+    background-color: silver;
+    }
 #apps{
     width: 250px;
     height: 150px;
 }
 #acch:hover{
     color:red;
-    background-color:silver;
     font-family: helvetica;
 }
 #ps{
@@ -34,7 +46,24 @@ h1 {
     color:red;
     font-family: cursive;
 }
-#school{
-    width: 150px;
-    height: 150px;
+#school {
+    width: 200px;
+    height: 250px;
 }
+#lernt{
+    background-color: silver;
+}
+#lernt{
+    color: red;
+}
+#lernt{
+    font-family: cursive;
+}
+#lernt:hover{
+    color: blue;
+}
+#acch:hover{
+    background-color:silver;
+}
+#acch:hover{
+    font-family: helvetica;
